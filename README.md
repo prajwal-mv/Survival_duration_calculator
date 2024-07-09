@@ -11,11 +11,17 @@ Output displayed in the chosen time unit.
 Here for calculation part we have simple mathematics keeping approximate in the mind
 
 Years = age  * 1
+
 Month = age * 12
+
 Weeks = age * 52
+
 Days = age * 365
+
 hours = age * 365 * 24
+
 minutes = age * 365 * 24 * 60
+
 days = age * 365 * 24 * 60 * 60
 
 How to use
